@@ -1,5 +1,7 @@
 # cat_dog_classifier
 
+This Application Uses TensorFlow to Employ a Pretrained Model of Machine learning Which Enables the application to recognize Between a cat and a dog
+this Application is Made Using Flutter.
 A new Flutter application.
 
 ## Getting Started
